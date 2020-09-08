@@ -1,3 +1,2 @@
-print("你好")gi t
-:
-\\
+print("你好"）
+print("哈哈")
