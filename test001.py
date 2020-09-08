@@ -1,2 +1,2 @@
 print("你好"）
-print("哈哈")ped
+print("哈哈")
